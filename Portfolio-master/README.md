@@ -4,11 +4,14 @@ Beyond just functionality, this portfolio embodies my innovative approach to web
 
 This portfolio serves as a testament to my technical skills and creativity in front-end development. My aim is to continually push boundaries in web design, integrating cutting-edge technologies that make every project unique and impactful, ultimately achieving meaningful digital transformations.
 
+<img width="1835" height="895" alt="image" src="https://github.com/user-attachments/assets/f866087a-2f64-4c56-9460-82949d278979" />
 
-![Screenshot 2024-10-26 103638](https://github.com/user-attachments/assets/49b50618-3522-43f4-af8d-35e75297e6f0)
+<img width="1822" height="633" alt="image" src="https://github.com/user-attachments/assets/b3803542-3e7d-4b04-a382-99b7da3140a2" />
 
-![Screenshot 2024-10-26 103656](https://github.com/user-attachments/assets/021a2a49-4d2f-4c09-84ac-f9ac5e562f9a)
+<img width="1836" height="615" alt="image" src="https://github.com/user-attachments/assets/552c048f-2e73-4d1d-b85e-98f5c1bcceed" />
 
-![Screenshot 2024-10-26 103714](https://github.com/user-attachments/assets/174662af-67b7-4650-99bb-8186ad9dc197)
+<img width="1828" height="708" alt="image" src="https://github.com/user-attachments/assets/33bbc622-c2bc-4b20-bcd1-315647f1287c" />
 
-![Screenshot 2024-10-26 103732](https://github.com/user-attachments/assets/78530aba-616f-4a6c-9319-ab9b71e9936d)
+<img width="1830" height="901" alt="image" src="https://github.com/user-attachments/assets/297862ad-7805-45d8-b3df-71deea5efb7a" />
+
+
